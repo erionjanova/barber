@@ -1,0 +1,13 @@
+.env
+
+bin/
+obj/
+.vs/
+*.user
+
+node_modules/
+dist/
+
+.DS_Store
+Thumbs.db
+.idea/
