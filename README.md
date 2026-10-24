@@ -1,4 +1,4 @@
-# ✂️ Barber
+# Barber
 
 A booking app for a single-barber shop. Customers pick a service and a free time slot, the barber gets a live notification, and the customer gets an email reminder the day before.
 
