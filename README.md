@@ -4,7 +4,9 @@ A booking app for a single-barber shop. Customers pick a service and a free time
 
 Built with .NET 10, React, TypeScript and PostgreSQL. The UI is in Albanian and English, with light and dark mode.
 
-**Live demo:** coming soon
+**Live demo:** [barber-erion.onrender.com](https://barber-erion.onrender.com)
+
+Hosted on Render (website and API) with a Neon PostgreSQL database, all on free tiers, so the first request after a period of inactivity can take up to a minute while the API wakes up.
 
 ![Home page](docs/screenshots/home-light.png)
 
@@ -161,7 +163,6 @@ The unit tests cover the slot calculation and the appointment state rules. The s
 - password reset and email verification
 - let the barber add bookings for walk-in and phone customers
 - rescheduling without having to cancel first
-- deploy it (Render + Neon) so there's a live demo
 
 ## Author
 
