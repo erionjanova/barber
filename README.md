@@ -165,4 +165,4 @@ The unit tests cover the slot calculation and the appointment state rules. The s
 
 ## Author
 
-Erion Janova · [GitHub](https://github.com/your-username) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+Erion Janova · [GitHub](https://github.com/erionjanova) · [LinkedIn](https://www.linkedin.com/in/erion-janova-60bb42340)
