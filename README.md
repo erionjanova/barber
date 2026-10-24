@@ -1,4 +1,4 @@
-# Barber
+# ✂️ Barber
 
 A booking app for a single-barber shop. Customers pick a service and a free time slot, the barber gets a live notification, and the customer gets an email reminder the day before.
 
@@ -7,6 +7,8 @@ Built with .NET 10, React, TypeScript and PostgreSQL. The UI is in Albanian and 
 **Live demo:** [barber-erion.onrender.com](https://barber-erion.onrender.com)
 
 Hosted on Render (website and API) with a Neon PostgreSQL database, all on free tiers, so the first request after a period of inactivity can take up to a minute while the API wakes up.
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,ts,tailwind,postgres,docker" alt=".NET, C#, React, TypeScript, Tailwind CSS, PostgreSQL, Docker" />
 
 ![Home page](docs/screenshots/home-light.png)
 
