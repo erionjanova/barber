@@ -1,5 +1,7 @@
 # Barber
 
+[![CI](https://github.com/erionjanova/barber/actions/workflows/ci.yml/badge.svg)](https://github.com/erionjanova/barber/actions/workflows/ci.yml)
+
 A booking app for a single-barber shop. Customers pick a service and a free time slot, the barber gets a live notification, and the customer gets an email reminder the day before.
 
 Built with .NET 10, React, TypeScript and PostgreSQL. The UI is in Albanian and English, with light and dark mode.
